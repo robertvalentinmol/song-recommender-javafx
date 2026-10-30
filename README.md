@@ -87,7 +87,7 @@ src/main/java/com/uji
 Requirements: **JDK 21+** and **Maven**. JavaFX is downloaded by Maven.
 
 ```bash
-git clone https://github.com/<your-user>/song-recommender-javafx.git
+git clone https://github.com/robertvalentinmol/song-recommender-javafx.git
 cd song-recommender-javafx
 mvn javafx:run      # launch the app
 mvn test            # run the unit tests
